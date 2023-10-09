@@ -1,0 +1,2 @@
+# mariajdbctest
+mariajdbc connectivity test
